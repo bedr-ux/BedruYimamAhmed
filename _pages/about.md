@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hey there, I'm Bedru Yimam, an **LLM for Low-Resource Languages**  and **Language Technology** researcher.
 
-My work focuses on applying machine learning to problems in **Speech Technology** [audio modality] and **Natural Language Processing** [text modality]. I have always been excited about broadening language technology to many of the under-represented languages of the world. My interests have since expanded into **Large Language Models (LLMs)**, **Agentic AI**, **Retrieval-Augmented Generation (RAG)**, and **Data Science**, where I explore how these advances can be adapted to serve low-resource languages and communities.
+My work focuses on applying machine learning to problems in **Speech Technology**  and **Natural Language Processing**. I have always been excited about broadening language technology to many of the under-represented languages of the world. My interests have since expanded into **Large Language Models (LLMs)**, **Agentic AI**, **Retrieval-Augmented Generation (RAG)**, and **Data Science**, where I explore how these advances can be adapted to serve low-resource languages and communities.
 
 I completed my Master's in [**BahirDar University**](https://www.bdu.edu.et/)'s **Information Technology** program, funded by Wollo University.
 
