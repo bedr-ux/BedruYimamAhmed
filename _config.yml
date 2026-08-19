@@ -23,12 +23,12 @@ repository               : "bedr-ux/BedruYimamAhmed"  # ✅ FIXED: Changed to yo
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bedru.jpg"
   name             : "Bedru Yimam Ahmed"  # ✅ UPDATED
   pronouns         : # example: "she/her"  
   bio              : "Researcher and academic professional"  # ✅ UPDATED (customize further)
   location         : "Ethiopia"  # ✅ UPDATED (change to your city/country)
-  employer         : "University / Institution"  # ✅ UPDATED (change to your actual employer)
+  employer         : " Wollo University / Kombolcha Institute of Technology"  # ✅ UPDATED (change to your actual employer)
   uri              : # URL
   email            : "bedruy4@gmail.com"  # ✅ UPDATED (change to your real email)
 
